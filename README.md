@@ -1,4 +1,4 @@
-# demo-repo
+# Demo
 
 
 i want to be happy
